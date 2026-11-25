@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiran-express.github.io/sitemap.xml
